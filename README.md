@@ -2,7 +2,7 @@
 
 ##  Overview
 
-This project implements image edge detection using the Sobel operator with Gaussian preprocessing. The input image is first processed in MATLAB to generate pixel data, which is then stored in pixel memory. The design applies Gaussian filtering to reduce noise, followed by Sobel edge detection to extract edges. Finally, the processed pixel data is reconstructed into an output image.
+This project implements image edge detection using the Sobel operator with Gaussian preprocessing. The input image is first processed in MATLAB to generate pixel data, which is then stored in pixel memory. The design applies Gaussian filtering to reduce noise, followed by Sobel edge detection to extract edges with help of Verilog on Xilinx Vivado . Finally, the processed pixel data is reconstructed into an output image using MATLAB.
 
 ---
 
