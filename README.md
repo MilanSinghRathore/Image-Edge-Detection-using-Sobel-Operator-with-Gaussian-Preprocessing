@@ -1,4 +1,4 @@
-# Image-Edge-Detection-using-Sobel-Operator-with-Gaussian-Preprocessing
+# Image Edge Detection using Sobel Operator with Gaussian Preprocessing
 
 ##  Overview
 
@@ -36,16 +36,6 @@ Output Edge Image
 
 ---
 
-### Diagram (Mermaid):
-
-```mermaid id="bd2"
-graph LR
-A[Input Image (MATLAB)] --> B[Pixel Memory]
-B --> C[Gaussian Filter]
-C --> D[Sobel Edge Detection]
-D --> E[Pixel to Image Conversion]
-E --> F[Output Edge Image]
-```
 
 ---
 
